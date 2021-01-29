@@ -13,6 +13,7 @@ Guarulhos/SP
 **Github:** VictorPortize
 
 **Inglês:** Básico/intermediário
+**Espanhol:** Básico
 
 
 
@@ -22,9 +23,9 @@ Guarulhos/SP
 
 **BackEnd:**
 * NodeJS
+* Laravel
 
 **FrontEnd:**
-* ES6
 * ReactJS
 * HTML5/CSS3
 
@@ -40,6 +41,7 @@ Guarulhos/SP
 **Experiências em outras linguagens:**
 * JavaScript
 * TypeScript
+* PHP
 ---
 
 ## Informações adicionais

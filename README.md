@@ -1,12 +1,12 @@
 # Victor da Silva Soares
+
 Guarulhos/SP
 
 ---
 
 ## Mobile Developer
 
-
-**Telefone:** (11) 98851-4915
+**Telefone:** (11) 93771-8856
 
 **E-mail:** victorportize@gmail.com
 
@@ -15,49 +15,56 @@ Guarulhos/SP
 **Inglês:** Básico/intermediário
 **Espanhol:** Básico
 
-
-
 ---
 
 ## Competências
 
 **BackEnd:**
-* NodeJS
-* Laravel
+
+- NodeJS
+- Laravel
 
 **FrontEnd:**
-* ReactJS
-* HTML5/CSS3
+
+- ReactJS
 
 **Mobile:**
-* React-Native
+
+- React-Native
+- Flutter ( Básico )
 
 **Banco de Dados:**
-* MySQL
+
+- MySQL
 
 **Outros:**
-* Sistema de Controle de versão *(git)*
+
+- Sistema de Controle de versão _(git)_
 
 **Experiências em outras linguagens:**
-* JavaScript
-* TypeScript
-* PHP
+
+- JavaScript
+- TypeScript
+- Dart
+- PHP
+
 ---
 
 ## Informações adicionais
 
-* Clean Code.
-* Gosto de ajudar novos programadores.
-* Facilidade para trabalhar em grupo
+- Clean Code.
+- Gosto de ajudar novos programadores.
+- Facilidade para trabalhar em grupo
 
 ---
 
 ## Experência Profissional
-* 2018/Dias Atuais - **Quality Inteligencia / Analista de Sistemas**
-> Desenvolvo para **Mobile** as soluções propostas pela empresa e realizo manutenções nos aplicativos já existentes 
+
+- 2018/2021 - **Quality Inteligencia / Analista de Sistemas**
+  > Desenvolvo para **Mobile** as soluções propostas pela empresa e realizo manutenções nos aplicativos já existentes
 
 ---
 
 ## Formação
 
-* **Graduação** - Eng da Computação - Incompleto 
+- **Graduação** - Eng da Computação - Faculdade Impacta - Incompleto

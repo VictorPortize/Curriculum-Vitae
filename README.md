@@ -78,11 +78,11 @@ Guarulhos/SP
   > https://play.google.com/store/apps/details?id=com.sagris
 
 - App  - **Nordbank ( Manutenção )**
-  > Controle de procedimentos, checklists e ponto.
+  > Aplicativo bancário, boletos e transações.
   > https://play.google.com/store/apps/details?id=com.nordbank
 
 - App  - **Weboox ( Manutenção )**
-  > Controle de procedimentos, checklists e ponto.
+  > Aplicativo bancário, boletos e transações.
   > https://play.google.com/store/apps/details?id=com.weboox
 
 ---

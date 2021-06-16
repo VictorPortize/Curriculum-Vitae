@@ -66,6 +66,25 @@ Guarulhos/SP
 
 - 2018/2021 - **Weboox / Desenvolvedor Senior**
   > Desenvolvo para **Mobile** as soluções propostas pela empresa e realizo manutenções nos aplicativos já existentes, assim como criação de APIs
+
+## Experência Profissional
+
+- App  - **Control XPress**
+  > Controle de acesso a áreas restritas.
+  > https://play.google.com/store/apps/details?id=com.control_xpress_portaria
+
+- App  - **Sagris**
+  > Controle de procedimentos, checklists e ponto.
+  > https://play.google.com/store/apps/details?id=com.sagris
+
+- App  - **Nordbank ( Manutenção )**
+  > Controle de procedimentos, checklists e ponto.
+  > https://play.google.com/store/apps/details?id=com.nordbank
+
+- App  - **Weboox ( Manutenção )**
+  > Controle de procedimentos, checklists e ponto.
+  > https://play.google.com/store/apps/details?id=com.weboox
+
 ---
 
 ## Formação

@@ -67,7 +67,7 @@ Guarulhos/SP
 - 2018/2021 - **Weboox / Desenvolvedor Senior**
   > Desenvolvo para **Mobile** as soluções propostas pela empresa e realizo manutenções nos aplicativos já existentes, assim como criação de APIs
 
-## Experência Profissional
+## Alguns projetos que participei
 
 - App  - **Control XPress**
   > Controle de acesso a áreas restritas.

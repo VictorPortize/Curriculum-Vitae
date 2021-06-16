@@ -22,6 +22,7 @@ Guarulhos/SP
 **BackEnd:**
 
 - NodeJS
+- Adonis
 - Laravel
 
 **FrontEnd:**
@@ -31,20 +32,20 @@ Guarulhos/SP
 **Mobile:**
 
 - React-Native
-- Flutter ( Básico )
+- Flutter ( Nível intermediário )
 
 **Banco de Dados:**
 
 - MySQL
+- NOSQL
 
 **Outros:**
 
 - Sistema de Controle de versão _(git)_
 
-**Experiências em outras linguagens:**
+**Linguagens:**
 
-- JavaScript
-- TypeScript
+- JavaScript ( TypeScript )
 - Dart
 - PHP
 
@@ -63,6 +64,8 @@ Guarulhos/SP
 - 2018/2021 - **Quality Inteligencia / Analista de Sistemas**
   > Desenvolvo para **Mobile** as soluções propostas pela empresa e realizo manutenções nos aplicativos já existentes
 
+- 2018/2021 - **Weboox / Desenvolvedor Senior**
+  > Desenvolvo para **Mobile** as soluções propostas pela empresa e realizo manutenções nos aplicativos já existentes, assim como criação de APIs
 ---
 
 ## Formação

@@ -23,7 +23,7 @@ Guarulhos/SP
 
 - NodeJS
 - Adonis
-- Laravel
+- Express
 
 **FrontEnd:**
 
@@ -32,11 +32,12 @@ Guarulhos/SP
 **Mobile:**
 
 - React-Native
-- Flutter ( Nível intermediário )
+- Flutter
 
 **Banco de Dados:**
 
 - MySQL
+- Postgres
 - NOSQL
 
 **Outros:**
@@ -47,7 +48,6 @@ Guarulhos/SP
 
 - JavaScript ( TypeScript )
 - Dart
-- PHP
 
 ---
 
@@ -62,9 +62,11 @@ Guarulhos/SP
 ## Experência Profissional
 
 - 2018/2021 - **Quality Inteligencia / Analista de Sistemas**
+
   > Desenvolvo para **Mobile** as soluções propostas pela empresa e realizo manutenções nos aplicativos já existentes
 
 - 2018/2021 - **Weboox / Desenvolvedor Senior**
+
   > Desenvolvo para **Mobile** as soluções propostas pela empresa e realizo manutenções nos aplicativos já existentes, assim como criação de APIs
 
 - 2021 - **Webart / Desenvolvedor Mobile Senior**
@@ -72,19 +74,22 @@ Guarulhos/SP
 
 ## Alguns projetos que participei
 
-- App  - **Control XPress**
+- App - **Control XPress**
+
   > Controle de acesso a áreas restritas.
   > https://play.google.com/store/apps/details?id=com.control_xpress_portaria
 
-- App  - **Sagris**
+- App - **Sagris**
+
   > Controle de procedimentos, checklists e ponto.
   > https://play.google.com/store/apps/details?id=com.sagris
 
-- App  - **Nordbank ( Manutenção )**
+- App - **Nordbank ( Manutenção )**
+
   > Aplicativo bancário, boletos e transações.
   > https://play.google.com/store/apps/details?id=com.nordbank
 
-- App  - **Weboox ( Manutenção )**
+- App - **Weboox ( Manutenção )**
   > Aplicativo bancário, boletos e transações.
   > https://play.google.com/store/apps/details?id=com.weboox
 

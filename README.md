@@ -64,14 +64,14 @@ Guarulhos/SP
 
   > Desenvolvo para **Mobile** as soluções propostas pela empresa e realizo manutenções nos aplicativos já existentes
 
-- 2018/2021 - **Weboox / Desenvolvedor Senior**
+- 2021/2021 - **Weboox / Desenvolvedor Senior**
 
   > Desenvolvo para **Mobile** as soluções propostas pela empresa e realizo manutenções nos aplicativos já existentes, assim como criação de APIs
 
-- 2021 - **Webart / Desenvolvedor Mobile Senior**
+- 2021 - **Webart / Desenvolvedor Backend Pleno**
   > Desenvolvo para **Mobile** as soluções propostas pela empresa e realizo manutenções nos aplicativos já existentes, assim como criação de APIs, gerenciamento de projetos.
   
-- 2022 - InhouseMarket
+- 2022 - **InhouseMarket / Desenvolvedor Backend Senior** 
   > Desenvolvimento do backend para integração de variados sistemas.
 
 ## Alguns projetos que participei

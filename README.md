@@ -1,4 +1,4 @@
-# Victor da Silva Soares - (Born: March 26, 1998) — Age: 27
+# Victor da Silva Soares - Age: 27
 
 **Location:** Guarulhos/SP, Brazil
 
